@@ -37,8 +37,8 @@ This repository implements a Correlation Power Analysis (CPA) attack on the **Ro
 ## Running the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/mm22b011-deepaks/cpa-romulus-n.git
-   cd cpa-romulus-n
+   git clone https://github.com/mm22b011-deepaks/CPA-Attack-on-Romulus
+   cd CPA-Attack-on-Romulus 
    ```  
 
 2. Ensure the required `.npy` files are in the same directory as the script.  
