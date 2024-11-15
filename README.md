@@ -6,7 +6,7 @@
 **Monish M (CS23M003)**  
 
 Contact: <deepaksridhar13@gmail.com>  
-GitHub: [Mini Militia GitHub Repository](https://github.com/mm22b011-deepaks)
+GitHub: [GitHub Repository](https://github.com/mm22b011-deepaks)
 
 ---
 
